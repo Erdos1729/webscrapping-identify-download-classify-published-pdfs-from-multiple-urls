@@ -1,0 +1,14 @@
+numpy
+pandas
+pdfminer
+io
+nltk
+re
+shutil
+time
+requests
+os
+urllib
+bs4
+xlrd
+datetime
